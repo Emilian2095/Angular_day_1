@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    color: goldenrod;
+    padding: 2rem;
+    text-align: center;
+    font-weight: bold;
+}
+.row{
+    width: 100%;
+}
+.card{
+     margin: 2px 5px;   
+}
+h5{
+    text-align: center;
+    color: teal;
+    font-weight: bold;
+}
+.price{
+    display: flex;
+    justify-content: space-between;
+    padding: .5rem;
+}
+span{
+    color: tomato;
+}
+p{
+    font-weight: bold;
+}
+button{
+    font-weight: bold;
+    padding: .3rem;
+}

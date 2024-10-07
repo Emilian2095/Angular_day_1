@@ -1,0 +1,29 @@
+
+.container1{
+    background-image: url(image/about.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.colorStyle{
+    background-color: rgba(240, 255, 255, 0.63);
+    width: 100%;
+}
+
+h2{
+    font-weight: bold;
+    text-align: center;
+    padding: 2rem;
+  
+}
+span{
+    color: goldenrod;
+    background-color: rgba(240, 255, 255, 0.63);
+    border-radius: 10px;
+}
+p{
+    font-weight: bold;
+    text-align: center;
+    
+}
